@@ -9,6 +9,7 @@ npm run dev
 # or
 yarn dev
 ```
+[Bootstrapped from this project](https://github.com/supabase/auth-helpers/tree/main/examples/nextjs-server-components)
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
